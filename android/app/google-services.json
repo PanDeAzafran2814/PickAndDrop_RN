@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "117229766544",
+    "project_id": "pickanddrop-7935d",
+    "storage_bucket": "pickanddrop-7935d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117229766544:android:ea43773d21b9e40be9d515",
+        "android_client_info": {
+          "package_name": "com.pickanddrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117229766544-r7fuebjd86r1j520h3hvihbfdc6v2ag2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pickanddrop",
+            "certificate_hash": "72fe4f7fe2b66714f32624ab59742df8adf31df4"
+          }
+        },
+        {
+          "client_id": "117229766544-epdqt9qj0pemaj1jamat948ebnm35khj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZEvUS4IyTDS6hv5_53a-A_aK_nyB4Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117229766544-epdqt9qj0pemaj1jamat948ebnm35khj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
